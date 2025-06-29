@@ -1,4 +1,4 @@
-User API (Plain Text - Point-wise Format):
+User API:
 
 1.POST /signup
 
